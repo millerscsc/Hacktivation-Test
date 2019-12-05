@@ -12,7 +12,7 @@ Repl.it Instruction:
 	3. Complete the task using this platform or pyCharm
 	4. Update your file in this environment with your solution. 
 
-GitHub Instruction:
+GitHub Instruction (Extension):
 
 	2. Open GitHub and sign in with your school Gmail
 	3. Press the fork button to create a personal copy of this Git
